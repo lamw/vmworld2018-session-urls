@@ -1,6 +1,6 @@
 # VMworld US 2018 Breakout Sessions Playback & Download URLs
 
-Here is a nice summary list of all VMworld US 2018 Breakout session with the respective video playback and download URLs. Enjoy!
+Here is a nice summary list of all VMworld US 2018 Breakout session with the respective video playback & download URLs. Enjoy!
 
 Total: 585
 
@@ -28,7 +28,7 @@ NS3729KU - The NSX Keynote: Building the Network of the Future with the Virtual 
 
 SEC3730KU - Transforming Security in a Cloud and Mobile World [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/20576) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SEC3730KU.mp4) [NO PDF POSTED]
 
-## Cloud Management (70)
+## Cloud Management (62)
 
 CNA1075BU - Operating and Managing Kubernetes on Day 2 with PKS [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22744) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1075BU.mp4) [NO PDF POSTED]
 
@@ -154,7 +154,7 @@ NET3409BU - Using vRealize Network Insight to Optimize the Software-Defined Data
 
 SAI2555BU - Accelerate App Security and Availability with vRealize Network Insight [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22189) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2555BU.mp4) [NO PDF POSTED]
 
-## Cloud Networking (119)
+## Cloud Networking (50)
 
 CNA1564BU - Container and Kubernetes 101 for vSphere Admins [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18478) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1564BU.mp4) [NO PDF POSTED]
 
@@ -256,7 +256,7 @@ SAI2598PU - Customer Panel on Micro-Segmentation Ops with vRealize Network Insig
 
 SAI3770BU - Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22364 /searchsite/2018/videoplayer/18892) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3770BU.mp4) [NO PDF POSTED]
 
-## Cloud Services (129)
+## Cloud Services (11)
 
 CNA2084BU - Intro to VMware Kubernetes Engine-Managed K8s Service on Public Cloud [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/20186) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA2084BU.mp4) [NO PDF POSTED]
 
@@ -280,7 +280,7 @@ SAI3219BU - Great Power, Great Responsibility: Least Privilege Security with App
 
 SAI3243BU - Use Artificial Intelligence and Machine Learning to Simplify Security  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22937) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3243BU.mp4) [NO PDF POSTED]
 
-## Cloud-Native Apps (150)
+## Cloud-Native Apps (22)
 
 CNA1199PU - Deploy Enterprise-Grade Kubernetes: Real-World Stories From PKS Users [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18544) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CNA1199PU.mp4) [NO PDF POSTED]
 
@@ -326,7 +326,7 @@ SAI1527BU - Deep Dive into NSX Data Center Security for Clouds, Containers, and 
 
 SAI3220BU - Securing Kubernetes and Docker Containers with VMware AppDefense  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/20478) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3220BU.mp4) [NO PDF POSTED]
 
-## DevOps (156)
+## DevOps (6)
 
 DEV1761BU - Delivering Agile Infrastructure as a Service via vRealize Automation [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/19958) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/DEV1761BU.mp4) [NO PDF POSTED]
 
@@ -340,7 +340,7 @@ HCI1813BU - A Deep Dive on Why Storage Matters in a Cloud-Native World [[STREAM]
 
 MGT2920BU - Customer Success Story: Enable Developers with Infra-as-Code and Automation [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18503) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT2920BU.mp4) [NO PDF POSTED]
 
-## Endpoint Management (188)
+## Endpoint Management (33)
 
 ACC1210BU - Implementing Endpoint Security and Conditional Access for Office 365 [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18767) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC1210BU.mp4) [NO PDF POSTED]
 
@@ -408,7 +408,7 @@ WIN3535BUR - Is VDI Dead? [[STREAM]](https://videos.vmworld.com/searchsite/2018/
 
 WIN3706PUS - Become the office hero with Dell & VMware desktop virtualization solutions  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22256) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3706PUS.mp4) [NO PDF POSTED]
 
-## Hybrid and Public Cloud (262)
+## Hybrid and Public Cloud (75)
 
 HCI1145BU - Why VMware vSAN Is the Best Solution for Cloud Provider Environments [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/23325) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1145BU.mp4) [NO PDF POSTED]
 
@@ -560,7 +560,7 @@ WIN3489BU - Life in a Multi-Cloud World: Choosing the Right Cloud Desktop Soluti
 
 WIN3493BU - Put Horizon Deployments on Autopilot with the Universal Cloud Connector [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/20432) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3493BU.mp4) [NO PDF POSTED]
 
-## Hyper-Converged Infrastructure (324)
+## Hyper-Converged Infrastructure (66)
 
 HCI1059BU - Architecting VMware Site Recovery Manager to Meet Your DR Goals [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22237) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HCI1059BU.mp4) [NO PDF POSTED]
 
@@ -694,7 +694,7 @@ HCI3855BU - How Virtualization & SDDC Help Drive Modernization in Manufacturing 
 
 HYP2752BU - Our New World: Hyper-Converged and Software Defined [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22755) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP2752BU.mp4) [NO PDF POSTED]
 
-## IoT (337)
+## IoT (14)
 
 HYP3822BU - VMware Data Protection Simplicity Meets Power: Converged, Cloud and Beyond [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/23052) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/HYP3822BU.mp4) [NO PDF POSTED]
 
@@ -724,7 +724,7 @@ IOT3872BUS - FUJITSU Mobility Solutions for Connected Vehicles [[STREAM]](https:
 
 LDT1882PU - Get the Creative Juices Flowing: A Discussion on Enterprise Innovation [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22480) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/LDT1882PU.mp4) [NO PDF POSTED]
 
-## Leading Digital Transformation (361)
+## Leading Digital Transformation (24)
 
 CTO3823BU - Kinetic Infrastructure:?? The Journey to a Fully Composable Datacenter  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18822) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3823BU.mp4) [NO PDF POSTED]
 
@@ -774,7 +774,7 @@ LDT3919BUS - Expanding your Hybrid IT with VMC on AWS. [[STREAM]](https://videos
 
 NFV3917PU - AT&T and VMware???s Virtual Cloud Network: Learn how AT&T is using VeloCloud???s SD-WAN and AirWatch [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18337) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV3917PU.mp4) [NO PDF POSTED]
 
-## NFV (366)
+## NFV (5)
 
 NFV1307BU - NSX SD-WAN by VeloCloud for Service Providers on the vCloud NFV Platform [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/19002) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV1307BU.mp4) [NO PDF POSTED]
 
@@ -786,7 +786,7 @@ NFV2220BU - Service Providers Love VMware Integrated OpenStack. Here's Why [[STR
 
 NFV2917BU - Breaking the Virtual Speed Limit: Data Plane Performance Tuning [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22271) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NFV2917BU.mp4) [NO PDF POSTED]
 
-## Office of the CTO (380)
+## Office of the CTO (15)
 
 CTO1189BU - Next-Gen Multi-Cloud Architecture for Machine Learning [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/20303) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO1189BU.mp4) [NO PDF POSTED]
 
@@ -818,7 +818,7 @@ CTO3650BU - Choose Optimism [[STREAM]](https://videos.vmworld.com/searchsite/201
 
 CTO3693BUS - Optimize your Virtualized Environment with Hardware Accelerators   [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22748) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/CTO3693BUS.mp4) [NO PDF POSTED]
 
-## Private Cloud (419)
+## Private Cloud (40)
 
 PRV1101BU - VxRack SDDC Technical Deep Dive [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/19650) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/PRV1101BU.mp4) [NO PDF POSTED]
 
@@ -900,7 +900,7 @@ PRV3916BUS - Lessons Learned: Production Apps using Containers, ElasticSearch an
 
 SAI2077BU - Context-Aware Micro-Segmentation with NSX Data Center  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18485) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2077BU.mp4) [NO PDF POSTED]
 
-## Secure Application Infrastructure (433)
+## Secure Application Infrastructure (14)
 
 SAI1133BU - How to Design Multi-layered Security with NSX Data Center  [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22531) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI1133BU.mp4) [NO PDF POSTED]
 
@@ -930,7 +930,7 @@ SAI3837BUS - How Carriers Gain Visibility in the Hybrid/Multi-Cloud [[STREAM]](h
 
 SAI4777PU - CPU Security Vulnerabilities Q&A Panel [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22364) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI4777PU.mp4) [NO PDF POSTED]
 
-## Security and Experience (450)
+## Security and Experience (17)
 
 ACC2162PU - Drive Workspace-as-a-Service and Security Transformation with Workspace ONE [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/19994) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/ACC2162PU.mp4) [NO PDF POSTED]
 
@@ -966,7 +966,7 @@ WIN3523BU - Troubleshooting Your Horizon 7 Deployment [[STREAM]](https://videos.
 
 WIN3530PU - EUC Champions Panel: Everything You Were Afraid to Ask About VDI [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18625) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3530PU.mp4) [NO PDF POSTED]
 
-## Virtualized Applications (485)
+## Virtualized Applications (35)
 
 VAP1088BU - App Failover on VMware Cloud on AWS Protected by LicenseFortress [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18311) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VAP1088BU.mp4) [NO PDF POSTED]
 
@@ -1038,7 +1038,7 @@ VAP3757PU - Running SAP in the Hybrid Cloud [[STREAM]](https://videos.vmworld.co
 
 VIN2124BU - How VMware vSphere and NVIDIA GPUs Accelerate Your Organization [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/18753) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/VIN2124BU.mp4) [NO PDF POSTED]
 
-## Virtualized Infrastructure (564)
+## Virtualized Infrastructure (82)
 
 MGT1069QU - Tips on Troubleshooting Nagging Storage Issues [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/17414) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/MGT1069QU.mp4) [NO PDF POSTED]
 
@@ -1204,7 +1204,7 @@ WIN2537BU - What's New in Horizon 7 [[STREAM]](https://videos.vmworld.com/search
 
 WIN3451BUR - Architecting Horizon 7 Enterprise: The Official Reference Architecture [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/19775) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN3451BUR.mp4) [NO PDF POSTED]
 
-## Windows Delivery (569)
+## Windows Delivery (5)
 
 WIN1428BU - The Future of VMware Fusion and Workstation [[STREAM]](https://videos.vmworld.com/searchsite/2018/videoplayer/22891) [[DOWNLOAD]](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/WIN1428BU.mp4) [NO PDF POSTED]
 
