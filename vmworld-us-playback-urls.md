@@ -3,7 +3,9 @@
 Here is a nice summary list of all VMworld US 2018 Breakout session with the respective video playback URLs. Enjoy!
 
 Total Sessions: 585
+
 Total Sessions Posted: 570
+
 Total Sessions NOT posted: 15
 
 ## Branch and Edge (9)
