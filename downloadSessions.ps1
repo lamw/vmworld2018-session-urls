@@ -8,6 +8,8 @@ foreach ($line in $lines) {
     ($title,$url) = $line -split "#"
     $title = $title.replace("`:",'')
     $title = $title.replace("`'",'')
+    $title = $title.replace("[",'')
+    $title = $title.replace("]",'')
     $title = $title.trim()
     $title = $title + ".mp4"
     Write-Host "Downloading $title ..."
