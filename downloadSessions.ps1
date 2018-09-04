@@ -11,7 +11,7 @@ foreach ($line in $lines) {
     $title = $title.trim()
     $title = $title + ".mp4"
     Write-Host "Downloading $title ..."
-    Invoke-WebRequest -Uri $url -Headers $headers -Outfile $url
+    Invoke-WebRequest -Uri $url -Headers $headers -Outfile $title
 }
 
 
