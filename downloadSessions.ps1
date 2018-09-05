@@ -1,4 +1,6 @@
-$sessionsToDownloadFile = "us.txt"
+param(
+		[Parameter(Mandatory=$false,HelpMessage="file of vmworld sessions to download",ValueFromPipeline=$true)][string]$sessionsToDownloadFile="us.txt"
+)
 
 $lines = Get-Content -Path $sessionsToDownloadFile | Where-Object { $_.Trim() -ne '' }
 
@@ -10,6 +12,9 @@ foreach ($line in $lines) {
     $title = $title.replace("`'",'')
     $title = $title.replace("[",'')
     $title = $title.replace("]",'')
+    $title = $title.replace("/",'_')
+    $title = $title.replace("\",'_')
+    $title = $title.replace("?",'')
     $title = $title.trim()
     $title = $title + ".mp4"
     Write-Host "Downloading $title ..."
