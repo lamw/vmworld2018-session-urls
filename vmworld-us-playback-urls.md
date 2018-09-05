@@ -139,7 +139,7 @@ NET3681PU | Lessons learned from successful NSX Deployments | [STREAM](https://v
 NET3821BU | Maximize your NSX Deployment with Open Networking Solutions  | [STREAM](https://videos.vmworld.com/searchsite/2018/videoplayer/20244) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET3821BU.mp4) | NO PDF POSTED
 NET4857BU | NSX-T Data Center Install Deep Dive and Best Practices including PKS/PAS | [STREAM](https://videos.vmworld.com/searchsite/2018/videoplayer/20366) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/NET4857BU.mp4) | NO PDF POSTED
 SAI2598PU | Customer Panel on Micro-Segmentation Ops with vRealize Network Insight | [STREAM](https://videos.vmworld.com/searchsite/2018/videoplayer/22369) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI2598PU.mp4) | NO PDF POSTED
-SAI3770BU | Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations | [STREAM](https://videos.vmworld.com/searchsite/2018/videoplayer/22364 /searchsite/2018/videoplayer/18892) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3770BU.mp4) | NO PDF POSTED
+SAI3770BU | Mitigating CPU Security Vulnerabilities ??? A look at vSphere Mitigations | [STREAM](https://videos.vmworld.com/searchsite/2018/videoplayer/22364) | [DOWNLOAD](https://s3-us-west-1.amazonaws.com/vmworld-usa-2018/SAI3770BU.mp4) | NO PDF POSTED
 
 ## Cloud Services (11)
 Session | Title | Stream | Download | PDF
