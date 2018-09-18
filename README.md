@@ -6,27 +6,27 @@ VMworld US Playback URLs: **[vmworld-us-playback-urls.md](vmworld-us-playback-ur
 
 VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-urls.md)**
 
-## Top 20 VMworld Sessions by Views (as of 09/08/18)
+## Top 20 VMworld Sessions by Views (as of 09/18/18)
 
-| Index | Title                                                                                           | ViewCount |
+| ﻿Index | Title                                                                                           | ViewCount |
 |-------|-------------------------------------------------------------------------------------------------|-----------|
-| 1     | [DW3727KU] - The Digital Workspace Keynote: End User Computing and Mobility Live!               | 7,455     |
-| 2     | [VIN3327BU] - Documenting Your Virtual Infrastructure with PowerShell and PowerCLI              | 6,388     |
-| 3     | [HYP3061QU] - Seamless, Large Scale Workload Migrations to the IBM Cloud                        | 5,494     |
-| 4     | [VIN1633BU] - Introducing vSphere Platinum and vSphere 6.7 Update 1                             | 4,735     |
-| 5     | [WIN3535BUR] - Is VDI Dead?                                                                     | 3,424     |
-| 6     | [SEC3730KU] - Transforming Security in a Cloud and Mobile World                                 | 3,256     |
-| 7     | [CNA1553BU] - Deep Dive: The Value of Running Kubernetes on vSphere                             | 3,141     |
-| 8     | [VIN2527BU] - Top 10 Automation Requests and How You Can Save Time                              | 2,788     |
-| 9     | [NS3729KU] - The NSX Keynote: Building the Network of the Future with the Virtual Cloud Network | 2,618     |
-| 10    | [VIN1249BU] - vSphere Clustering Deep Dive, Part 1: vSphere HA and DRS                          | 2,396     |
-| 11    | [HCI3728KU] - Innovating Beyond HCI: How VMware is Driving the Next Data Center Revolution      | 2,164     |
-| 12    | [DC3732KU] - Driving Transformation from the Data Center to the Public Cloud                    | 2,140     |
-| 13    | [VIN1992BU] - A Deep(er) Dive with PowerCLI 10                                                  | 2,131     |
-| 14    | [LDT1497BUR] - 5 Things Your Boss???s Boss Secretly Wishes You Would Tell Them                  | 2,119     |
-| 15    | [VIN3353BU] - Art of Managing SSL Certificates in vSphere: Troubleshooting, Tip & Tricks        | 1,943     |
-| 16    | [VIN2645QU] - Virtualization 101                                                                | 1,924     |
-| 17    | [END2713BU] - Co-manage Workspace ONE + SCCM : Get to Windows 10 Modern Management Faster       | 1,746     |
-| 18    | [DC3845KU] - Cloud and Developer Keynote: Public Clouds and Kubernetes at Scale                 | 1,691     |
-| 19    | [END3460BU] - Deep Dive Into What's New with Workspace ONE Unified Endpoint Management          | 1,560     |
-| 20    | [MGT2191BU] - Advanced Extensibility Use Case: vRealize Automation and Ansible Tower            | 1,550     |
+| 1     | [DW3727KU] - The Digital Workspace Keynote: End User Computing and Mobility Live!               | 9,071     |
+| 2     | [VIN3327BU] - Documenting Your Virtual Infrastructure with PowerShell and PowerCLI              | 8,358     |
+| 3     | [VIN1633BU] - Introducing vSphere Platinum and vSphere 6.7 Update 1                             | 6,468     |
+| 4     | [HYP3061QU] - Seamless, Large Scale Workload Migrations to the IBM Cloud                        | 5,638     |
+| 5     | [SEC3730KU] - Transforming Security in a Cloud and Mobile World                                 | 4,892     |
+| 6     | [WIN3535BUR] - Is VDI Dead?                                                                     | 4,010     |
+| 7     | [CNA1553BU] - Deep Dive: The Value of Running Kubernetes on vSphere                             | 3,955     |
+| 8     | [NS3729KU] - The NSX Keynote: Building the Network of the Future with the Virtual Cloud Network | 3,572     |
+| 9     | [VIN2527BU] - Top 10 Automation Requests and How You Can Save Time                              | 3,302     |
+| 10    | [DC3732KU] - Driving Transformation from the Data Center to the Public Cloud                    | 2,973     |
+| 11    | [VIN3353BU] - Art of Managing SSL Certificates in vSphere: Troubleshooting, Tip & Tricks        | 2,783     |
+| 12    | [VIN1249BU] - vSphere Clustering Deep Dive, Part 1: vSphere HA and DRS                          | 2,778     |
+| 13    | [WIN1428BU] - The Future of VMware Fusion and Workstation                                       | 2,639     |
+| 14    | [HCI3728KU] - Innovating Beyond HCI: How VMware is Driving the Next Data Center Revolution      | 2,584     |
+| 15    | [VIN1992BU] - A Deep(er) Dive with PowerCLI 10                                                  | 2,453     |
+| 16    | [VIN2949BU] - Best Practices for Virtual Networking (GSS Best Practices)                        | 2,338     |
+| 17    | [LDT1497BUR] - 5 Things Your Boss???s Boss Secretly Wishes You Would Tell Them                  | 2,212     |
+| 18    | [NET1516BU] - Introduction to NSX Cloud                                                         | 2,176     |
+| 19    | [CNA1564BU] - Container and Kubernetes 101 for vSphere Admins                                   | 2,150     |
+| 20    | [HCI3041BU] - Introducing Scalable File Storage on vSAN with Native File Services               | 2,075     |
