@@ -8,7 +8,7 @@ VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-ur
 
 ## Top 20 VMworld US Sessions by Views (as of 09/18/18)
 
-| ﻿Index | Title                                                                                           | ViewCount |
+| Index | Title                                                                                           | ViewCount |
 |-------|-------------------------------------------------------------------------------------------------|-----------|
 | 1     | [DW3727KU] - The Digital Workspace Keynote: End User Computing and Mobility Live!               | 9,071     |
 | 2     | [VIN3327BU] - Documenting Your Virtual Infrastructure with PowerShell and PowerCLI              | 8,358     |
@@ -31,4 +31,27 @@ VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-ur
 | 19    | [CNA1564BU] - Container and Kubernetes 101 for vSphere Admins                                   | 2,150     |
 | 20    | [HCI3041BU] - Introducing Scalable File Storage on vSAN with Native File Services               | 2,075     |
 
-## Top 20 VMworld Europe Sessions by Views (TBD)
+## Top 20 VMworld Europe Sessions by Views (11/09/18)
+
+| Index | Title                                                                                           | ViewCount |
+|-------|-------------------------------------------------------------------------------------------------|-----------|
+| 1     | [CTO3509BE] - VMware at the Edge: Automation, Analytics, and Real-Time Business                 | 1,558     |
+| 2     | [NS3729KE] - The NSX Keynote: Building the Network of the Future with the Virtual Cloud Network | 1,086     |
+| 3     | [DW3727KE] - The Digital Workspace Keynote: End User Computing and Mobility Live!               | 891       |
+| 4     | [VIN1249BER] - vSphere Clustering Deep Dive, Part 1: vSphere HA and DRS                         | 590       |
+| 5     | [CNA1816BE] - Container and Kubernetes 101 for Admins                                           | 474       |
+| 6     | [DC3732KE] - Driving Transformation from the Data Center to the Public Cloud                    | 471       |
+| 7     | [HCI3728KE] - Innovating Beyond HCI: How VMware is Driving the Next Data Center Revolution      | 299       |
+| 8     | [NET2068BE] - Introduction to Container Networking and Security with NSX-T Data Center          | 271       |
+| 9     | [DEV1965QE] - QuickStart DevOps Culture with VMware                                             | 261       |
+| 10    | [BRE2165BE] - SD-WAN Use Cases Designed to Optimize Your Network                                | 242       |
+| 11    | [HCI2513QE] - Using vSAN Native Data Protection in the Real World                               | 240       |
+| 12    | [VIN1992BE] - A Deep(er) Dive with PowerCLI 10                                                  | 203       |
+| 13    | [VAP1593QE] - New Architectures for Big Data/Machine Learning on VMware Cloud on AWS            | 201       |
+| 14    | [VIN1293BE] - Ensure Maximum Uptime and Performance of Your vCenter Server Appliance            | 196       |
+| 15    | [DC3845KE] - Cloud and Developer Keynote: Public Clouds and Kubernetes at Scale                 | 196       |
+| 16    | [VIN1633BER] - Introducing vSphere Platinum and vSphere 6.7 Update 1                            | 188       |
+| 17    | [WIN3535BE] - Is VDI Dead?                                                                      | 183       |
+| 18    | [HCI2088BE] - vSAN Stretched Clusters Technical Deep Dive                                       | 169       |
+| 19    | [VAP2547BE] - Licensing Oracle and SQL Server on vSphere                                        | 166       |
+| 20    | [HYP3853BE] - FREESTYLIN??? THE CLOUD with IBM and skateboarding legend, Rodney Mullen          | 151       |

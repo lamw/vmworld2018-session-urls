@@ -4,6 +4,9 @@ param(
 
 $lines = Get-Content -Path $sessionsToDownloadFile | Where-Object { $_.Trim() -ne '' }
 
+#VMworld US use referer = "http://www.vmware.com"
+#VMworld EU use referer = "https://videos.vmworld.com/global/2018/videoplayer/26950"
+
 $headers = @{"referer" = "http://www.vmware.com"}
 
 foreach ($line in $lines) {
