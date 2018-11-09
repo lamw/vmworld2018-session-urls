@@ -6,7 +6,7 @@ VMworld US Playback URLs: **[vmworld-us-playback-urls.md](vmworld-us-playback-ur
 
 VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-urls.md)**
 
-## Top 20 VMworld Sessions by Views (as of 09/18/18)
+## Top 20 VMworld US Sessions by Views (as of 09/18/18)
 
 | ﻿Index | Title                                                                                           | ViewCount |
 |-------|-------------------------------------------------------------------------------------------------|-----------|
@@ -30,3 +30,5 @@ VMworld EU Playback URLs: **[vmworld-eu-playback-urls.md](vmworld-eu-playback-ur
 | 18    | [NET1516BU] - Introduction to NSX Cloud                                                         | 2,176     |
 | 19    | [CNA1564BU] - Container and Kubernetes 101 for vSphere Admins                                   | 2,150     |
 | 20    | [HCI3041BU] - Introducing Scalable File Storage on vSAN with Native File Services               | 2,075     |
+
+## Top 20 VMworld Europe Sessions by Views (TBD)
