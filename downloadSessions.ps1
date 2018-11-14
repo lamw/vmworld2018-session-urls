@@ -20,8 +20,13 @@ foreach ($line in $lines) {
     $title = $title.replace("?",'')
     $title = $title.trim()
     $title = $title + ".mp4"
-    Write-Host "Downloading $title ..."
-    Invoke-WebRequest -Uri $url -Headers $headers -Outfile $title
+    if (Test-Path $title) {
+        Write-Host "Skipping $title (already downloaded) ..."
+    }
+    else {
+        Write-Host "Downloading $title ..."
+        Invoke-WebRequest -Uri $url -Headers $headers -Outfile $title
+    }
 }
 
 
